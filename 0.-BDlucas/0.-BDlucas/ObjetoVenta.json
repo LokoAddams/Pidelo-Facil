@@ -1,0 +1,145 @@
+﻿[
+  {
+    "codObjetoVenta": 1,
+    "nombre": "Tacos",
+    "precio": 100,
+    "codNegocio": 25,
+    "nroVentas": 0,
+    "cantStock": 5
+  },
+  {
+    "codObjetoVenta": 2,
+    "nombre": "Carnitas",
+    "precio": 100,
+    "codNegocio": 25,
+    "nroVentas": 0,
+    "cantStock": 9,
+    "descripcion": "carnes al pastor"
+  },
+  {
+    "codObjetoVenta": 3,
+    "nombre": "taquitos",
+    "precio": 100,
+    "codNegocio": 25,
+    "nroVentas": 0,
+    "cantStock": 8,
+    "descripcion": "tacos y amor"
+  },
+  {
+    "codObjetoVenta": 4,
+    "nombre": "Enchilada",
+    "precio": 100,
+    "codNegocio": 25,
+    "nroVentas": 0,
+    "cantStock": 4,
+    "descripcion": "comida y felicidad"
+  },
+  {
+    "codObjetoVenta": 5,
+    "nombre": "Promo Carnavalera",
+    "precio": 100,
+    "codNegocio": 25,
+    "nroVentas": 0,
+    "cantStock": 5,
+    "descripcion": "2x1"
+  },
+  {
+    "codObjetoVenta": 6,
+    "nombre": "promo carnavalera",
+    "precio": 100,
+    "codNegocio": 25,
+    "nroVentas": 0,
+    "cantStock": 3,
+    "descripcion": "3x1"
+  },
+  {
+    "codObjetoVenta": 7,
+    "nombre": "Promo Carnavalera",
+    "precio": 300,
+    "codNegocio": 25,
+    "nroVentas": 0,
+    "cantStock": 3,
+    "descripcion": "2x1"
+  },
+  {
+    "codObjetoVenta": 8,
+    "nombre": "Promo Halloween",
+    "precio": 3,
+    "codNegocio": 25,
+    "nroVentas": 0,
+    "cantStock": 4,
+    "descripcion": "dulces"
+  },
+  {
+    "codObjetoVenta": 9,
+    "nombre": "Promo navidad",
+    "precio": 10,
+    "codNegocio": 25,
+    "nroVentas": 0,
+    "cantStock": 3,
+    "descripcion": "galletas"
+  },
+  {
+    "codObjetoVenta": 10,
+    "nombre": "promo verano",
+    "precio": 50,
+    "codNegocio": 25,
+    "nroVentas": 0,
+    "cantStock": 5,
+    "descripcion": "2 helados"
+  },
+  {
+    "codObjetoVenta": 11,
+    "nombre": "promo invierno",
+    "precio": 50,
+    "codNegocio": 25,
+    "nroVentas": 0,
+    "cantStock": 5,
+    "descripcion": "2 cafes"
+  },
+  {
+    "codObjetoVenta": 12,
+    "nombre": "promo alegria",
+    "precio": 100,
+    "codNegocio": 25,
+    "nroVentas": 0,
+    "cantStock": 5,
+    "descripcion": "genial"
+  },
+  {
+    "codObjetoVenta": 13,
+    "nombre": "promo azul",
+    "precio": 3,
+    "codNegocio": 25,
+    "nroVentas": 0,
+    "cantStock": 4,
+    "descripcion": "algo azul"
+  },
+  {
+    "codObjetoVenta": 14,
+    "nombre": "promo amor",
+    "precio": 200,
+    "codNegocio": 25,
+    "nroVentas": 0,
+    "cantStock": 6,
+    "descripcion": "por san valentin"
+  },
+  {
+    "codObjetoVenta": 15,
+    "nombre": "promo papá",
+    "precio": 10,
+    "codNegocio": 25,
+    "nroVentas": 0,
+    "cantStock": 100,
+    "descripcion": "salteña"
+  },
+  {
+    "codObjetoVenta": 16,
+    "nombre": "promo hola",
+    "precio": 1,
+    "codNegocio": 25,
+    "nroVentas": 0,
+    "cantStock": 55,
+    "descripcion": "hola"
+  }
+]

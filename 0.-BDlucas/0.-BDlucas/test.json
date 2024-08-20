@@ -1,0 +1,100 @@
+﻿[
+  {
+    "codEntidad": 23,
+    "nombre": "Lucas",
+    "celular": "+591 74058962",
+    "Email": "lucas@gmail.com",
+    "PaisyCiudad": "Cochabamba,Bolivia",
+    "puntuacion": 1.000000000000000e+000,
+    "contrasenia": "hola"
+  },
+  {
+    "codEntidad": 25,
+    "nombre": "Chingada",
+    "celular": "+591 77777777",
+    "Email": "lucas@hotmail.com",
+    "PaisyCiudad": "Pando,Bolivia",
+    "puntuacion": 2.000000000000000e+000,
+    "contrasenia": "hola"
+  },
+  {
+    "codEntidad": 28,
+    "nombre": "Chingada",
+    "celular": "+591 77777771",
+    "Email": "lucas1@gmail.com",
+    "PaisyCiudad": "LaPaz,Bolivia",
+    "puntuacion": 3.000000000000000e+000
+  },
+  {
+    "codEntidad": 29,
+    "nombre": "Mario",
+    "celular": "+591 77777772",
+    "Email": "mario@gmail.com",
+    "PaisyCiudad": "Oruro,Bolivia",
+    "puntuacion": 4.000000000000000e+000,
+    "contrasenia": "Hola1"
+  },
+  {
+    "codEntidad": 30,
+    "nombre": "Leo",
+    "celular": "+591 77777773",
+    "Email": "lucas22@gmail.com",
+    "PaisyCiudad": "Cochabamba,Bolivia",
+    "puntuacion": 5.000000000000000e+000,
+    "contrasenia": "hola"
+  },
+  {
+    "codEntidad": 31,
+    "nombre": "Tagliatela",
+    "celular": "+591 77777774",
+    "Email": "tagliatela@gmila.com",
+    "PaisyCiudad": "Tarija,Bolivia",
+    "puntuacion": 1.000000000000000e+000,
+    "contrasenia": "hola"
+  },
+  {
+    "codEntidad": 32,
+    "nombre": "Leo",
+    "celular": "+591 77777775",
+    "Email": "leo22@gmail.com",
+    "PaisyCiudad": "Chuquisaca,Bolivia",
+    "puntuacion": 2.000000000000000e+000,
+    "contrasenia": "hola"
+  },
+  {
+    "codEntidad": 34,
+    "nombre": "Lucas",
+    "celular": "+591 77777776",
+    "Email": "lucas77@gmail.com",
+    "PaisyCiudad": "Potosi,Bolivia",
+    "puntuacion": 3.000000000000000e+000,
+    "contrasenia": "hola"
+  },
+  {
+    "codEntidad": 35,
+    "nombre": "Thiago",
+    "celular": "+591 77777778",
+    "Email": "thiago@gmail.com",
+    "PaisyCiudad": "Beni,Bolivia",
+    "puntuacion": 4.000000000000000e+000,
+    "contrasenia": "hola"
+  },
+  {
+    "codEntidad": 36,
+    "nombre": "Cocolatte",
+    "celular": "+591 77777779",
+    "Email": "cocolatte@gmail.com",
+    "PaisyCiudad": "SantaCruz,Bolivia",
+    "puntuacion": 5.000000000000000e+000,
+    "contrasenia": "hola"
+  },
+  {
+    "codEntidad": 37,
+    "nombre": "Oliver",
+    "celular": "+591 77777711",
+    "Email": "oliver@gmail.com",
+    "PaisyCiudad": "Cochabamba,Bolivia",
+    "puntuacion": 1.000000000000000e+000,
+    "contrasenia": "hola"
+  }
+]

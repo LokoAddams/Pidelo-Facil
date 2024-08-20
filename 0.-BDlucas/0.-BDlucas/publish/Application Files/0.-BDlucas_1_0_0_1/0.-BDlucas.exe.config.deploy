@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+    </configSections>
+    <connectionStrings>
+        <add name="_0._BDlucas.Properties.Settings.Database1ConnectionString"
+            connectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\Database1.mdf;Integrated Security=True"
+            providerName="System.Data.SqlClient" />
+    </connectionStrings>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.7.2" />
+    </startup>
+	<appSettings>
+		<add key="MiCadenaDeConexion"
+    value="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\lucas\Documents\0.-UNIVERSIDAD\3.-TercerSemestre\BasedeDatos1\2.-ProyectoFinal\0.-BDlucas\0.-BDlucas\Database1.mdf;Integrated Security=True"
+   />
+	</appSettings>
+</configuration>

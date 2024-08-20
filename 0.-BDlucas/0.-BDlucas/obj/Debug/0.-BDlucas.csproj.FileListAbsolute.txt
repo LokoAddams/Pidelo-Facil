@@ -1,0 +1,64 @@
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\3.-TercerSemestre\BasedeDatos1\2.-ProyectoFinal\0.-BDlucas\0.-BDlucas\bin\Debug\Database1.mdf
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\3.-TercerSemestre\BasedeDatos1\2.-ProyectoFinal\0.-BDlucas\0.-BDlucas\bin\Debug\Database1_log.ldf
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\3.-TercerSemestre\BasedeDatos1\2.-ProyectoFinal\0.-BDlucas\0.-BDlucas\bin\Debug\0.-BDlucas.exe.config
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\3.-TercerSemestre\BasedeDatos1\2.-ProyectoFinal\0.-BDlucas\0.-BDlucas\bin\Debug\0.-BDlucas.exe
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\3.-TercerSemestre\BasedeDatos1\2.-ProyectoFinal\0.-BDlucas\0.-BDlucas\bin\Debug\0.-BDlucas.pdb
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\3.-TercerSemestre\BasedeDatos1\2.-ProyectoFinal\0.-BDlucas\0.-BDlucas\obj\Debug\0.-BDlucas.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\3.-TercerSemestre\BasedeDatos1\2.-ProyectoFinal\0.-BDlucas\0.-BDlucas\obj\Debug\_0._BDlucas.Properties.Resources.resources
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\3.-TercerSemestre\BasedeDatos1\2.-ProyectoFinal\0.-BDlucas\0.-BDlucas\obj\Debug\0.-BDlucas.csproj.GenerateResource.cache
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\3.-TercerSemestre\BasedeDatos1\2.-ProyectoFinal\0.-BDlucas\0.-BDlucas\obj\Debug\0.-BDlucas.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\3.-TercerSemestre\BasedeDatos1\2.-ProyectoFinal\0.-BDlucas\0.-BDlucas\obj\Debug\0.-BDlucas.exe
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\3.-TercerSemestre\BasedeDatos1\2.-ProyectoFinal\0.-BDlucas\0.-BDlucas\obj\Debug\0.-BDlucas.pdb
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\3.-TercerSemestre\BasedeDatos1\2.-ProyectoFinal\0.-BDlucas\0.-BDlucas\obj\Debug\_0._BDlucas.FormPrincipal.resources
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\3.-TercerSemestre\BasedeDatos1\2.-ProyectoFinal\0.-BDlucas\0.-BDlucas\obj\Debug\_0._BDlucas.frmRegistrarNegocio.resources
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\3.-TercerSemestre\BasedeDatos1\2.-ProyectoFinal\0.-BDlucas\0.-BDlucas\obj\Debug\_0._BDlucas.frmRegistrarCliente.resources
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\3.-TercerSemestre\BasedeDatos1\2.-ProyectoFinal\0.-BDlucas\0.-BDlucas\obj\Debug\_0._BDlucas.frmRegistrarRepartidor.resources
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\3.-TercerSemestre\BasedeDatos1\2.-ProyectoFinal\0.-BDlucas\0.-BDlucas\obj\Debug\_0._BDlucas.frmDescartarEntidadesPorPais.resources
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\3.-TercerSemestre\BasedeDatos1\2.-ProyectoFinal\0.-BDlucas\0.-BDlucas\obj\Debug\_0._BDlucas.frmInterfazCliente.resources
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\3.-TercerSemestre\BasedeDatos1\2.-ProyectoFinal\0.-BDlucas\0.-BDlucas\obj\Debug\_0._BDlucas.frmInterfazNegocio.resources
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\3.-TercerSemestre\BasedeDatos1\2.-ProyectoFinal\0.-BDlucas\0.-BDlucas\obj\Debug\_0._BDlucas.frmInterfazRepartidor.resources
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\3.-TercerSemestre\BasedeDatos1\2.-ProyectoFinal\0.-BDlucas\0.-BDlucas\obj\Debug\_0._BDlucas.frmRegistrarProducto.resources
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\3.-TercerSemestre\BasedeDatos1\2.-ProyectoFinal\0.-BDlucas\0.-BDlucas\obj\Debug\_0._BDlucas.frmRegistrarPromocion.resources
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\3.-TercerSemestre\BasedeDatos1\2.-ProyectoFinal\0.-BDlucas\0.-BDlucas\obj\Debug\_0._BDlucas.frmBuscarPromo.resources
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\3.-TercerSemestre\BasedeDatos1\2.-ProyectoFinal\0.-BDlucas\0.-BDlucas\obj\Debug\_0._BDlucas.frmRegistrarProductoEnPromo.resources
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\3.-TercerSemestre\BasedeDatos1\2.-ProyectoFinal\0.-BDlucas\0.-BDlucas\obj\Debug\_0._BDlucas.frmBuscarNegocio.resources
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\3.-TercerSemestre\BasedeDatos1\2.-ProyectoFinal\0.-BDlucas\0.-BDlucas\obj\Debug\_0._BDlucas.frmRegistrarObjetosEnPedido.resources
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\3.-TercerSemestre\BasedeDatos1\2.-ProyectoFinal\0.-BDlucas\0.-BDlucas\obj\Debug\_0._BDlucas.frmRegistrarHorarios.resources
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\3.-TercerSemestre\BasedeDatos1\2.-ProyectoFinal\0.-BDlucas\0.-BDlucas\obj\Debug\_0._BDlucas.frmEstadisticas.resources
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\3.-TercerSemestre\BasedeDatos1\2.-ProyectoFinal\0.-BDlucas\0.-BDlucas\bin\Debug\0.-BDlucas.exe.manifest
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\3.-TercerSemestre\BasedeDatos1\2.-ProyectoFinal\0.-BDlucas\0.-BDlucas\bin\Debug\0.-BDlucas.application
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\3.-TercerSemestre\BasedeDatos1\2.-ProyectoFinal\0.-BDlucas\0.-BDlucas\obj\Debug\0.-BDlucas.TrustInfo.xml
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\3.-TercerSemestre\BasedeDatos1\2.-ProyectoFinal\0.-BDlucas\0.-BDlucas\obj\Debug\0.-BDlucas.exe.manifest
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\3.-TercerSemestre\BasedeDatos1\2.-ProyectoFinal\0.-BDlucas\0.-BDlucas\obj\Debug\0.-BDlucas.application
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\100.-Repositorios github C++\Pidelo-Facil\0.-BDlucas\0.-BDlucas\bin\Debug\Database1.mdf
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\100.-Repositorios github C++\Pidelo-Facil\0.-BDlucas\0.-BDlucas\bin\Debug\Database1_log.ldf
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\100.-Repositorios github C++\Pidelo-Facil\0.-BDlucas\0.-BDlucas\bin\Debug\0.-BDlucas.exe.config
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\100.-Repositorios github C++\Pidelo-Facil\0.-BDlucas\0.-BDlucas\bin\Debug\0.-BDlucas.exe.manifest
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\100.-Repositorios github C++\Pidelo-Facil\0.-BDlucas\0.-BDlucas\bin\Debug\0.-BDlucas.application
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\100.-Repositorios github C++\Pidelo-Facil\0.-BDlucas\0.-BDlucas\bin\Debug\0.-BDlucas.exe
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\100.-Repositorios github C++\Pidelo-Facil\0.-BDlucas\0.-BDlucas\bin\Debug\0.-BDlucas.pdb
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\100.-Repositorios github C++\Pidelo-Facil\0.-BDlucas\0.-BDlucas\obj\Debug\0.-BDlucas.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\100.-Repositorios github C++\Pidelo-Facil\0.-BDlucas\0.-BDlucas\obj\Debug\_0._BDlucas.FormPrincipal.resources
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\100.-Repositorios github C++\Pidelo-Facil\0.-BDlucas\0.-BDlucas\obj\Debug\_0._BDlucas.frmDescartarEntidadesPorPais.resources
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\100.-Repositorios github C++\Pidelo-Facil\0.-BDlucas\0.-BDlucas\obj\Debug\_0._BDlucas.frmEstadisticas.resources
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\100.-Repositorios github C++\Pidelo-Facil\0.-BDlucas\0.-BDlucas\obj\Debug\_0._BDlucas.frmInterfazCliente.resources
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\100.-Repositorios github C++\Pidelo-Facil\0.-BDlucas\0.-BDlucas\obj\Debug\_0._BDlucas.frmInterfazNegocio.resources
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\100.-Repositorios github C++\Pidelo-Facil\0.-BDlucas\0.-BDlucas\obj\Debug\_0._BDlucas.frmInterfazRepartidor.resources
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\100.-Repositorios github C++\Pidelo-Facil\0.-BDlucas\0.-BDlucas\obj\Debug\_0._BDlucas.frmBuscarNegocio.resources
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\100.-Repositorios github C++\Pidelo-Facil\0.-BDlucas\0.-BDlucas\obj\Debug\_0._BDlucas.frmRegistrarCliente.resources
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\100.-Repositorios github C++\Pidelo-Facil\0.-BDlucas\0.-BDlucas\obj\Debug\_0._BDlucas.frmRegistrarHorarios.resources
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\100.-Repositorios github C++\Pidelo-Facil\0.-BDlucas\0.-BDlucas\obj\Debug\_0._BDlucas.frmRegistrarNegocio.resources
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\100.-Repositorios github C++\Pidelo-Facil\0.-BDlucas\0.-BDlucas\obj\Debug\_0._BDlucas.frmRegistrarObjetosEnPedido.resources
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\100.-Repositorios github C++\Pidelo-Facil\0.-BDlucas\0.-BDlucas\obj\Debug\_0._BDlucas.frmRegistrarProducto.resources
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\100.-Repositorios github C++\Pidelo-Facil\0.-BDlucas\0.-BDlucas\obj\Debug\_0._BDlucas.frmBuscarPromo.resources
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\100.-Repositorios github C++\Pidelo-Facil\0.-BDlucas\0.-BDlucas\obj\Debug\_0._BDlucas.frmRegistrarProductoEnPromo.resources
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\100.-Repositorios github C++\Pidelo-Facil\0.-BDlucas\0.-BDlucas\obj\Debug\_0._BDlucas.frmRegistrarPromocion.resources
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\100.-Repositorios github C++\Pidelo-Facil\0.-BDlucas\0.-BDlucas\obj\Debug\_0._BDlucas.frmRegistrarRepartidor.resources
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\100.-Repositorios github C++\Pidelo-Facil\0.-BDlucas\0.-BDlucas\obj\Debug\_0._BDlucas.Properties.Resources.resources
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\100.-Repositorios github C++\Pidelo-Facil\0.-BDlucas\0.-BDlucas\obj\Debug\0.-BDlucas.csproj.GenerateResource.cache
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\100.-Repositorios github C++\Pidelo-Facil\0.-BDlucas\0.-BDlucas\obj\Debug\0.-BDlucas.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\100.-Repositorios github C++\Pidelo-Facil\0.-BDlucas\0.-BDlucas\obj\Debug\0.-BDlucas.TrustInfo.xml
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\100.-Repositorios github C++\Pidelo-Facil\0.-BDlucas\0.-BDlucas\obj\Debug\0.-BDlucas.exe.manifest
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\100.-Repositorios github C++\Pidelo-Facil\0.-BDlucas\0.-BDlucas\obj\Debug\0.-BDlucas.application
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\100.-Repositorios github C++\Pidelo-Facil\0.-BDlucas\0.-BDlucas\obj\Debug\0.-BDlucas.exe
+C:\Users\lucas\Documents\0.-UNIVERSIDAD\100.-Repositorios github C++\Pidelo-Facil\0.-BDlucas\0.-BDlucas\obj\Debug\0.-BDlucas.pdb

@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B03843DE-6F90-456B-B92D-157138275234}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>_0._BDlucas</RootNamespace>
+    <AssemblyName>0.-BDlucas</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>07C5FF4F89CEDC3D52D422336AC7907FCB01B511</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>0.-BDlucas_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FormPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPrincipal.Designer.cs">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDescartarEntidadesPorPais.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDescartarEntidadesPorPais.Designer.cs">
+      <DependentUpon>frmDescartarEntidadesPorPais.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEstadisticas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEstadisticas.Designer.cs">
+      <DependentUpon>frmEstadisticas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInterfazCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInterfazCliente.Designer.cs">
+      <DependentUpon>frmInterfazCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInterfazNegocio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInterfazNegocio.Designer.cs">
+      <DependentUpon>frmInterfazNegocio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInterfazRepartidor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInterfazRepartidor.Designer.cs">
+      <DependentUpon>frmInterfazRepartidor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuscarNegocio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuscarNegocio.Designer.cs">
+      <DependentUpon>frmBuscarNegocio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegistrarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegistrarCliente.Designer.cs">
+      <DependentUpon>frmRegistrarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegistrarHorarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegistrarHorarios.Designer.cs">
+      <DependentUpon>frmRegistrarHorarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegistrarNegocio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegistrarNegocio.Designer.cs">
+      <DependentUpon>frmRegistrarNegocio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegistrarObjetosEnPedido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegistrarObjetosEnPedido.Designer.cs">
+      <DependentUpon>frmRegistrarObjetosEnPedido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegistrarProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegistrarProducto.Designer.cs">
+      <DependentUpon>frmRegistrarProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuscarPromo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuscarPromo.Designer.cs">
+      <DependentUpon>frmBuscarPromo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegistrarProductoEnPromo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegistrarProductoEnPromo.Designer.cs">
+      <DependentUpon>frmRegistrarProductoEnPromo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegistrarPromocion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegistrarPromocion.Designer.cs">
+      <DependentUpon>frmRegistrarPromocion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegistrarRepartidor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegistrarRepartidor.Designer.cs">
+      <DependentUpon>frmRegistrarRepartidor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestorDeBaseDeDatos.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormPrincipal.resx">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDescartarEntidadesPorPais.resx">
+      <DependentUpon>frmDescartarEntidadesPorPais.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEstadisticas.resx">
+      <DependentUpon>frmEstadisticas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInterfazCliente.resx">
+      <DependentUpon>frmInterfazCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInterfazNegocio.resx">
+      <DependentUpon>frmInterfazNegocio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInterfazRepartidor.resx">
+      <DependentUpon>frmInterfazRepartidor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuscarNegocio.resx">
+      <DependentUpon>frmBuscarNegocio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegistrarCliente.resx">
+      <DependentUpon>frmRegistrarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegistrarHorarios.resx">
+      <DependentUpon>frmRegistrarHorarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegistrarNegocio.resx">
+      <DependentUpon>frmRegistrarNegocio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegistrarObjetosEnPedido.resx">
+      <DependentUpon>frmRegistrarObjetosEnPedido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegistrarProducto.resx">
+      <DependentUpon>frmRegistrarProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuscarPromo.resx">
+      <DependentUpon>frmBuscarPromo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegistrarProductoEnPromo.resx">
+      <DependentUpon>frmRegistrarProductoEnPromo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegistrarPromocion.resx">
+      <DependentUpon>frmRegistrarPromocion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegistrarRepartidor.resx">
+      <DependentUpon>frmRegistrarRepartidor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="0.-BDlucas_TemporaryKey.pfx" />
+    <None Include="categorias.json" />
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="ObjetoVenta.json" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="test.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Consultas.sql" />
+    <Content Include="Database1.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Database1_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Database1.mdf</DependentUpon>
+    </Content>
+    <None Include="Resources\user11.png" />
+    <None Include="Resources\user1.png" />
+    <None Include="Resources\user.png" />
+    <None Include="Resources\login.png" />
+    <None Include="Resources\login.jpg" />
+    <None Include="Resources\pedidosYafondo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
